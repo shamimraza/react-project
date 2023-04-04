@@ -1,0 +1,30 @@
+[
+    {
+      "id": "gem-1",
+      "name": "Diamond",
+      "carat": 1.5,
+      "clarity": "VS1",
+      "color": "D",
+      "price": 5000,
+      "features": ["excellent cut", "eye-clean", "GIA certified"]
+    },
+    {
+      "id": "gem-2",
+      "name": "Sapphire",
+      "carat": 1.5,
+      "clarity": "VS1",
+      "color": "D",
+      "price": 5500,
+      "features": ["ideal cut", "eye-clean", "GIA certified"]
+    },
+    {
+      "id": "gem-3",
+      "name": "Ruby",
+      "carat": 1.5,
+      "clarity": "VS1",
+      "color": "D",
+      "price": 6000,
+      "features": ["excellent cut", "internally flawless", "GIA certified"]
+    }
+  ]
+  
